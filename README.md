@@ -1,1 +1,1 @@
-# NeuroPulse - Parkinson's Fall Dectection and Monitoring Device
+# NeuroPulse - Parkinson's Fall Detection and Monitoring Device
